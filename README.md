@@ -36,6 +36,5 @@ streamlit run app.py
 
 To provide businesses with a smart analytics platform for data-driven decision-making through sales forecasting, customer insights, and inventory management.
 
-## 👨‍💻 Developed By
 
-Sowmya
+
